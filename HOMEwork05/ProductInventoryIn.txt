@@ -1,0 +1,10 @@
+70     Gourmet Popcorn               2.80        50
+71     Veggie Burgers                5.00        60
+72     Italian Bread                 4.00        70
+73     Electrolyte Water             2.20        80
+74     Shaved Parmesan               8.00        90
+75     Lemonade                      1.50        40
+76     High Protein Bars             1.30        30
+77     Ginger Shampoo                7.50        20
+78     Blueberry Toothpaste          3.00        10
+79     Goodnight Candles             2.50       100
